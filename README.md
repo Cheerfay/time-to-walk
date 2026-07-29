@@ -2,16 +2,17 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-**Focus, stand, repeat—even one second counts.**
+**Focus, stand, repeat. Even one second counts.**
 
 [View in the Chrome Web Store](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)  
 <sub>The latest release is under review. Chrome Web Store availability varies
 by region and may require access to Google services.</sub>
 
-Time to Walk is a lightweight stand-up reminder for people who spend long
-hours working or studying at a desk. Choose a focus interval; when it ends, a
-fullscreen page asks you to stand. There are no streaks to protect and no
-exercise goals to complete.
+Time to Walk is a lightweight Chrome extension for people who spend long hours
+working or studying at a desk. Pomodoro-style focus intervals and fullscreen
+reminders build movement into your work rhythm. When a session ends, a
+fullscreen page asks you to stand—without streaks to protect or exercise goals
+to complete.
 
 站起来，哪怕只有一秒，也算一次胜利。
 
