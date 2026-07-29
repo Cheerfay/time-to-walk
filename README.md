@@ -1,5 +1,7 @@
 # Time to Walk
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 **Focus, stand, repeat—even one second counts.**
 
 [View in the Chrome Web Store](https://chromewebstore.google.com/detail/jcbldmgghanpecpbcmjdhbijjffoackf)  
